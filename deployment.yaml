@@ -11,6 +11,7 @@ spec:
   selector:
     matchLabels:
       app: ubuntu
+      revision: 2
   template:
     metadata:
       labels:
