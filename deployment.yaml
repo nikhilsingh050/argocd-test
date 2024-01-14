@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     app: ubuntu
-    revision: two
+    revision: three
   name: ubuntu
   namespace: default
 spec:
